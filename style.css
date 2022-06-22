@@ -1,0 +1,39 @@
+
+body {
+    background: orange;
+}
+.container{
+    text-align: center;
+    margin-top: 23px;
+}
+table{
+    margin: auto;
+    color: gold;
+}
+input{
+    font-size: 34px;
+    width: auto;
+    border: 4px solid green;
+    border-radius: 25px;
+
+}
+button {
+    font-size: 40px;
+    background: #978fa0;
+    width: 102px;
+    height: 58px;
+    border-radius: 26px;
+    padding: 5px;
+}
+.calculator{
+    display: inline-block;
+    border: 2px solid rgb(7, 15, 26);
+    padding: 12px;
+    border-radius: 15px;
+    color: rgb(140, 129, 147);
+}
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: auto;
+    padding-bottom: 10px;
+}
